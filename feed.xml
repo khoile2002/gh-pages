@@ -3,7 +3,7 @@
     <title>Test  website</title>
     <link href="https://khoile2002.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://khoile2002.github.io/gh-pages" />
-    <updated>2023-01-14T13:21:29+07:00</updated>
+    <updated>2023-01-14T14:01:57+07:00</updated>
     <author>
         <name>khoi le</name>
     </author>
@@ -346,8 +346,9 @@
         <link href="https://khoile2002.github.io/gh-pages/test-thu-xem-nao-9.html"/>
         <id>https://khoile2002.github.io/gh-pages/test-thu-xem-nao-9.html</id>
         <media:content url="https://khoile2002.github.io/gh-pages/media/posts/9/bun_zing.jpg" medium="image" />
+            <category term="blog"/>
 
-        <updated>2023-01-14T12:57:39+07:00</updated>
+        <updated>2023-01-14T14:01:57+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://khoile2002.github.io/gh-pages/media/posts/9/bun_zing.jpg" alt="" />
@@ -383,8 +384,9 @@
         <link href="https://khoile2002.github.io/gh-pages/test-thu-xem-nao-8.html"/>
         <id>https://khoile2002.github.io/gh-pages/test-thu-xem-nao-8.html</id>
         <media:content url="https://khoile2002.github.io/gh-pages/media/posts/8/bun_zing.jpg" medium="image" />
+            <category term="blog"/>
 
-        <updated>2023-01-14T12:57:37+07:00</updated>
+        <updated>2023-01-14T14:01:48+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://khoile2002.github.io/gh-pages/media/posts/8/bun_zing.jpg" alt="" />
